@@ -5,7 +5,7 @@
 - 📫 How to reach me @ogabidavid16@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm very fun to work with and i'm also very eager to work 
-SO i can always say i'm a JACk of all trades
+You can be a Jack of all trades but master or none So be a Master of one 
 
 <!---
 SMOKD01/SMOKD01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
