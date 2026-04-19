@@ -12,9 +12,9 @@
  
 ## 🧑‍💻 About Me
  
-I'm **Gabi** — a mobile-first developer and creative technologist based in **Nigeria 🇳🇬**, focused on building experiences that feel great on every device — from Android to the web, and eventually iOS.
+I'm **Gabi** — a mobile-first developer and creative technologist, focused on building experiences that feel great on every device — from Android to the web, and eventually iOS.
  
-- 📱 **Mobile Developer** (primary) — Flutter, React Native, and Kotlin/Jetpack Compose
+- 📱 **Mobile Developer** (primary) — Flutter, React Native, Kotlin/Jetpack Compose, and *Swift
 - 🌐 **Web Developer** (secondary) — React, TypeScript, Tailwind CSS, and Vite
 - 🎨 Exploring motion/animation in web dev
 - 🚀 On a deliberate path: **Cross-platform Mobile → Flutter → Native iOS (Swift)**
@@ -25,7 +25,7 @@ I'm **Gabi** — a mobile-first developer and creative technologist based in **N
 ## 🛠️ Tech Stack
  
 ### 📱 Mobile Development *(Primary)*
-[![Mobile Stack](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react)](https://skillicons.dev)
+[![Mobile Stack](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,swift)](https://skillicons.dev)
  
 ### 🌐 Web Development *(Secondary)*
 [![Web Stack](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite)](https://skillicons.dev)
