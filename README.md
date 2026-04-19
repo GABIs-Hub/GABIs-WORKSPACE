@@ -19,6 +19,7 @@ I'm **Gabi** — a mobile-first developer and creative technologist based in **N
 - 🎨 Exploring motion/animation in web dev
 - 🚀 On a deliberate path: **Cross-platform Mobile → Flutter → Native iOS (Swift)**
 - ⚡ I believe in mastery through consistency — *"Jack of all trades, master of what matters most."*
+- 🎮 I play games or read books in my free time
 ---
  
 ## 🛠️ Tech Stack
@@ -94,7 +95,7 @@ Web Dev (React/TS) ──► React Native ──► Flutter ──► iOS (Swift
 I'm open to:
 - 🛠️ **Collaboration** on mobile, web, or creative-tech projects
 - 💡 **Open source** contributions and meaningful builds
-- 💬 **Knowledge sharing** — dev, design, or trading
+- 💬 **Knowledge sharing** — dev, design, or gaming
 📩 Hit me at **ogabidavid16@gmail.com** or connect on LinkedIn above.
  
 ---
