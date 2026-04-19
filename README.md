@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Banner / Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabi+%F0%9F%91%8B;Mobile+%26+Web+Developer;Creative+Technologist;Building+across+platforms+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabi+%F0%9F%91%8B;Mobile+%26+Web+Developer;Building+across+platforms+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/david-ogabi-b77a2a31a)
 [![Email](https://img.shields.io/badge/Email-ogabidavid16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogabidavid16@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
+[![Profile Views](https://komarev.com/ghpvc/?username=GABIs-Hub&style=for-the-badge&color=6C63FF)](https://github.com/GABIs-Hub)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Gabi** — a multidisciplinary developer and creative technologist based in **Nigeria 🇳🇬**, passionate about building experiences that work beautifully across every screen.
+I'm **Gabi** — a multidisciplinary developer based in **Nigeria 🇳🇬**, passionate about building experiences that work beautifully across every screen.
 
 - 📱 **Junior Mobile Developer** working across Flutter, React Native, and Kotlin/Jetpack Compose
 - 🌐 **Web Developer** building with React, TypeScript, Tailwind CSS, and Vite
@@ -37,7 +37,7 @@ I'm **Gabi** — a multidisciplinary developer and creative technologist based i
 [![Backend Stack](https://skillicons.dev/icons?i=firebase,nodejs,supabase,neon)](https://skillicons.dev)
 
 ### 🎨 Creative & Tools
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,sublime,visualstudio)](https://skillicons.dev)
 
 ---
 
