@@ -1,0 +1,46 @@
+name: Update Activity Feed
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch activity
+        run: |
+          curl -s https://api.github.com/users/GABIs-Hub/events > events.json
+
+      - name: Generate activity section
+        run: |
+          echo "## 📅 Daily Activity" > activity.txt
+          echo "" >> activity.txt
+
+          jq -r '
+            [.[] | select(.type=="PushEvent")] 
+            | .[:6] 
+            | .[] 
+            | "- 🚀 **" + (.repo.name | split("/")[1]) + "**\n  ⏱️ " + (.created_at | sub("T"; " ") | sub("Z"; "")) 
+          ' events.json >> activity.txt
+          
+                - name: Inject into README
+                  run: |
+                    awk '/<!--START_ACTIVITY-->/{flag=1;print;system("cat activity.txt");next}/<!--END_ACTIVITY-->/{flag=0} !flag' README.md > temp.md
+                    mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "activity-bot"
+          git config --global user.email "bot@github.com"
+          git add README.md
+          git commit -m "Update activity feed" || echo "No changes"
+          git push
