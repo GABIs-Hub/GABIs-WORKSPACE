@@ -1,9 +1,9 @@
 name: Update Activity Feed
 
 on:
-  schedule:
-    - cron: "0 * * * *" # every hour
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -16,26 +16,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Fetch activity
+      - name: Fetch GitHub activity
         run: |
           curl -s https://api.github.com/users/GABIs-Hub/events > events.json
 
-      - name: Generate activity section
+      - name: Create activity content
         run: |
           echo "## 📅 Daily Activity" > activity.txt
           echo "" >> activity.txt
 
-          jq -r '
-            [.[] | select(.type=="PushEvent")] 
-            | .[:6] 
-            | .[] 
-            | "- 🚀 **" + (.repo.name | split("/")[1]) + "**\n  ⏱️ " + (.created_at | sub("T"; " ") | sub("Z"; "")) 
-          ' events.json >> activity.txt
-          
-                - name: Inject into README
-                  run: |
-                    awk '/<!--START_ACTIVITY-->/{flag=1;print;system("cat activity.txt");next}/<!--END_ACTIVITY-->/{flag=0} !flag' README.md > temp.md
-                    mv temp.md README.md
+          grep '"type": "PushEvent"' -A 5 events.json | grep '"repo"' -A 2 | grep '"name"' | head -6 | sed 's/.*"name": "\(.*\)".*/- 🚀 \1/' >> activity.txt
+
+      - name: Inject into README
+        run: |
+          awk '/<!--START_ACTIVITY-->/{print;system("cat activity.txt");next}/<!--END_ACTIVITY-->/{print;next}1' README.md > temp.md
+          mv temp.md README.md
 
       - name: Commit changes
         run: |
