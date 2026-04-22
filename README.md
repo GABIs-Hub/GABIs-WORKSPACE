@@ -95,6 +95,8 @@ I'm **Gabi** — a mobile-first developer and creative technologist, focused on 
 
 ## 📅 Daily Activity
 
+## 📅 Daily Activity
+
 Loading activity...
 <!--END_ACTIVITY-->
 
