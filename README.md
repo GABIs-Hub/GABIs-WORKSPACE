@@ -90,7 +90,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 **Experience:** Firebase · Supabase · Neon PostgreSQL
 **Knowledge:** Node.js · API Design · Real-time Systems
 
-[![Backend Stack](https://skillicons.dev/icons?i=firebase,supabase,nodejs,postgresql)](https://skillicons.dev)
+[![Backend Stack](https://skillicons.dev/icons?i=firebase,neon,render,resend,supabase,nodejs,postgresql)](https://skillicons.dev)
 
 </div>
 
