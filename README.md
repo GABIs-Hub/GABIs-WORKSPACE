@@ -91,6 +91,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 **Knowledge:** Node.js · API Design · Real-time Systems
 
 [![Backend Stack](https://skillicons.dev/icons?i=firebase,supabase,nodejs,postgresql)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=node,render,resend,neon,prisma)](https://github.com/syvixor/skills-icons)
 
 </div>
 
