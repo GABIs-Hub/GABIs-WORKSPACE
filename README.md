@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 💼 Frontend Developer @ NACOS DU | Self-Employed Flutter Developer | Software Engineering Student
+###  Flutter Developer | Software Engineering Student
 
 **Currently Building:** Mobile & Web Solutions | **Actively Available:** Contract & Full-Time Roles
 
@@ -24,26 +24,26 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-I'm a **Software Engineer** currently working as **Frontend Developer at NACOS DU** (July 2025 – Present) while building mobile solutions as a **Self-Employed Flutter Developer**. I'm pursuing my degree in **Software Engineering at Dominion University** and am passionate about crafting clean, scalable applications that solve real-world problems.
+I'm a **Software Engineer** currently on a team serving as a **Frontend Developer at NACOS DU** (July 2025 – Present) while building mobile solutions as a **Flutter Developer**. I'm pursuing my degree in **Software Engineering at Dominion University, Ibadan** and I'm passionate about crafting clean, scalable applications that solve real-world problems.
 
 **Professional Background:**
-- 📱 **Mobile Development Focus:** Flutter, React Native, and native iOS (Swift)
-- 🌐 **Web Development:** Next.js, React, TypeScript, and modern web frameworks
-- ☁️ **Backend Expertise:** Firebase, Supabase, Neon PostgreSQL, and API design
-- 🎯 **Career Goal:** Senior Mobile Developer or Full-Stack Engineer role
+-  **Mobile Development Focus:** Flutter, React Native, and Swift
+-  **Web Development:** Next.js, React, TypeScript, and modern web frameworks
+-  **Backend Expertise:** Firebase, Supabase, Neon PostgreSQL, and API design
+-  **Career Goal:** Senior Mobile Developer or Full-Stack Engineer role
 
 **What Drives Me:**
-- 🎯 Writing clean, maintainable code with solid architectural patterns
-- 🎨 Creating intuitive user experiences through thoughtful design
-- 🚀 Shipping production-ready apps optimized for performance
-- 🤝 Collaborating with passionate teams on impactful projects
-- 📚 Continuous learning and mastering cutting-edge technologies
+-  Writing clean, maintainable code with solid architectural patterns
+-  Creating intuitive user experiences through thoughtful design
+-  Shipping production-ready apps optimized for performance
+-  Collaborating with passionate teams on impactful projects
+-  Continuous learning and mastering cutting-edge technologies
 
 ---
 
-## 📊 Quick Stats
+##  Quick Stats
 
 <div align="center">
 
@@ -51,19 +51,19 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 |--------|-------|
 | **Current Role** | Frontend Developer @ NACOS DU |
 | **Projects Shipped** | 15+ (Production-Ready) |
-| **GitHub Contributions** | 500+ Commits |
+| **GitHub Contributions** | Near 500+ Commits |
 | **Technical Expertise** | Flutter, React Native, Next.js |
 | **Years of Experience** | 2+ in Full-Stack Development |
-| **Education** | B.Sc. Software Engineering (Dominion University) |
-| **Availability** | Open for Contract & Full-Time Roles 🎯 |
+| **Education** | B.Sc. Software Engineering (Dominion University) [In view] |
+| **Availability** | Open for Contract & Full-Time Roles |
 
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
-### 📱 **Mobile Development** (Primary)
+###  **Mobile Development** (Primary)
 <div align="center">
 
 **Expert:** Flutter · Dart · Firebase
@@ -74,7 +74,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 </div>
 
-### 🌐 **Web Development** (Secondary)
+###  **Web Development** (Secondary)
 <div align="center">
 
 **Proficient:** React · Next.js · TypeScript · Tailwind CSS
@@ -84,7 +84,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 </div>
 
-### ☁️ **Backend & Databases**
+###  **Backend & Databases**
 <div align="center">
 
 **Experience:** Firebase · Supabase · Neon PostgreSQL
@@ -95,7 +95,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 </div>
 
-### ⚙️ **Developer Tools & Workflow**
+###  **Developer Tools & Workflow**
 <div align="center">
 
 [![Tools](https://skillicons.dev/icons?i=git,github,sublime,vscode,vercel,vite,figma,gradle,npm)](https://skillicons.dev)
@@ -104,7 +104,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 ---
 
-## 📌 Professional Highlights
+##  Professional Highlights
 
 <div align="center">
 
@@ -112,19 +112,19 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 | Achievement | Impact |
 |---|---|
-| 🏢 Frontend Developer at NACOS DU | Building scalable web & mobile solutions for enterprise clients |
-| 📱 15+ Production Apps | Shipped across iOS, Android, and Web platforms |
-| 👥 Active Open Source Contributor | Contributing to community-driven development |
-| 🎓 Pursuing Software Engineering Degree | Continuous formal education at Dominion University |
-| 🌟 Freelance Experience | Successfully delivered multiple client projects with 100% satisfaction |
+|  Frontend Developer at NACOS DU | Building scalable web & mobile products in school |
+|  15+ Production Apps | Shipped across Android, and Web platforms |
+|  Active Open Source Contributor | Contributing to community-driven development |
+|  Pursuing Software Engineering Degree | Continuous formal education at Dominion University |
+|  Freelance Experience | Successfully delivered multiple client projects with satisfaction |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌐 [Personal Portfolio](https://gabis-workspace.vercel.app)
+###  [Personal Portfolio](https://gabis-workspace.vercel.app)
 **A modern, performant developer portfolio showcasing projects and expertise**
 
 <table>
@@ -132,11 +132,11 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 <td width="50%">
 
 **Key Features:**
-- ⚡ Next.js 16 with React 19
-- 🎨 Framer Motion animations
-- 📱 Mobile-responsive design
-- ♿ Full accessibility compliance
-- 🚀 Optimized performance
+-  Next.js 16 with React 19
+-  Framer Motion animations
+-  Mobile-responsive design
+-  Full accessibility compliance
+-  Optimized performance
 
 **Tech Stack:**
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
@@ -145,14 +145,14 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 <td width="50%">
 
 **Metrics:**
-- 💨 90+ Lighthouse score
-- 📈 SEO-optimized
-- 🎯 Deployed on Vercel
-- 🔄 Regularly updated
+-  90+ Lighthouse score
+-  SEO-optimized
+-  Deployed on Vercel
+-  Regularly updated
 
 **Links:**
-🔗 [Live Demo](https://gabis-workspace.vercel.app)
-📂 [Repository](https://github.com/GABIs-Hub/portfolio)
+. [Live Demo](https://gabis-workspace.vercel.app)
+. [Repository](https://github.com/GABIs-Hub/portfolio)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 ---
 
-### 📊 BizLedger
+###  BizLedger
 **Cross-platform business ledger application for financial management**
 
 <table>
@@ -168,11 +168,11 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 <td width="50%">
 
 **Key Features:**
-- 📱 iOS & Android support
-- 💰 Income/expense tracking
-- 📈 Financial reports
-- 🔐 Secure authentication
-- 📊 Data visualization
+-  iOS [soon] & Android support
+-  Income/expense tracking
+-  Financial reports
+-  Secure authentication
+-  Data visualization
 
 **Tech Stack:**
 `Flutter` `Dart` `Firebase` `Neon PostgreSQL`
@@ -180,14 +180,12 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 </td>
 <td width="50%">
 
-**Status:**
-- ✅ Production Ready
-- 👥 Active users
-- 🔄 Continuous updates
-- 💡 AI-powered insights (planned)
+**Status:**   (Private Repository)
+-  Production Ready
+-  Active users
+-  Continuous updates
+-  AI-powered insights (planned)
 
-**Links:**
-📂 [GitHub Repository](https://github.com/GABIs-Hub)
 
 </td>
 </tr>
@@ -195,7 +193,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 ---
 
-### 🏢 [HPC Professional Website](https://hpc-site.example.com)
+###  [HPC Professional Website](https://hpc-site.example.com)
 **Enterprise website for engineering company with CMS integration**
 
 <table>
@@ -203,11 +201,11 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 <td width="50%">
 
 **Key Features:**
-- 🌐 Corporate branding
-- 📝 Sanity CMS integration
-- 🔍 SEO optimization
-- 📱 Responsive design
-- ⚡ Fast loading
+-  Corporate branding
+-  Sanity CMS integration
+-  SEO optimization
+-  Responsive design
+-  Fast loading
 
 **Tech Stack:**
 `Next.js` `Sanity CMS` `Tailwind CSS` `Vercel`
@@ -216,12 +214,12 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 <td width="50%">
 
 **Results:**
-- 📊 Improved web presence
-- 🚀 Easy content updates
-- 🎯 Professional appearance
-- 💼 Lead generation focus
+-  Improved web presence
+-  Easy content updates
+-  Professional appearance
+-  Lead generation focus
 
-**Status:** Published (Private Repository)
+**Status:** Production Ready (Private Repository)
 
 </td>
 </tr>
@@ -229,7 +227,7 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 ---
 
-## 💼 Current Work Status
+##  Current Work Status
 
 <div align="center">
 
@@ -241,37 +239,37 @@ I'm a **Software Engineer** currently working as **Frontend Developer at NACOS D
 
 </div>
 
-### 🔨 Currently Building
+###  Currently Building
 
-#### 💼 **DepSense API**
+####  **DepSense API**
 A developer-focused API combining dependency health analysis with intelligent error decoding. Helping developers understand and resolve dependency issues faster.
 
 **Stack:** `Node.js` `TypeScript` `Neon` `OpenAI API` `OSV.dev`
-**Status:** In Active Development 🚀
+**Status:** In Active Development.
 
-#### 📱 **Mobile App Projects**
+####  **Mobile App Projects**
 Building client solutions with Flutter, focusing on production-grade apps with clean architecture patterns.
 
 **Tech Stack:** `Flutter` `Dart` `Firebase` `PostgreSQL`
-**Status:** Multiple Projects in Development 📲
+**Status:** Multiple Projects in Development.
 
 ---
 
-## 🎯 Current Learning Focus
+##  Current Learning Focus
 
 <div align="center">
 
 | Priority | Area | Goal |
 |:---:|---|---|
-| 🥇 | **Advanced Flutter** | Mastery in production architectures & package development |
-| 🥈 | **Web Animations** | Motion design expertise with Framer Motion & Three.js |
-| 🥉 | **System Design** | Scalable architectures and design patterns |
+| 1. | **Advanced Flutter** | Mastery in production architectures & package development |
+| 2. | **Web Animations** | Motion design expertise with Framer Motion & Three.js |
+| 3. | **System Design** | Scalable architectures and design patterns |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity & Contribution
+##  GitHub Activity & Contribution
 
 <div align="center">
 
@@ -284,13 +282,13 @@ Building client solutions with Flutter, focusing on production-grade apps with c
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=GABIs-Hub&style=flat-square&color=0F766E&label=Total%20Profile%20Views">
 </p>
 
-**Note:** This profile view counter updates every time someone visits! 📊
+**Note:** This profile view counter updates every time someone visits!
 
 </div>
 
 ---
 
-## 💡 Engineering Philosophy
+##  Engineering Philosophy
 
 > **"You can be a jack of all trades, but the goal is to become a master in what matters most to you."**
 
@@ -300,25 +298,25 @@ My principles for building excellent software:
 <tr>
 <td width="50%">
 
-✨ **Quality Over Quantity**
+ **Quality Over Quantity**
 Clean, tested, maintainable code that stands the test of time
 
-🎯 **User-Centered Design**
+ **User-Centered Design**
 Every feature solves a real problem, never just feature-creep
 
-📚 **Continuous Growth**
+ **Continuous Growth**
 Stay updated with emerging technologies and best practices
 
 </td>
 <td width="50%">
 
-🤝 **Meaningful Collaboration**
+ **Meaningful Collaboration**
 Build great things together with passionate, skilled teams
 
-🚀 **Ship & Iterate**
+ **Ship & Iterate**
 Validate ideas quickly, gather feedback, improve continuously
 
-💪 **Performance First**
+ **Performance First**
 Optimize for speed, reliability, and user experience
 
 </td>
@@ -327,7 +325,7 @@ Optimize for speed, reliability, and user experience
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I'm actively seeking opportunities in:
 
@@ -335,19 +333,19 @@ I'm actively seeking opportunities in:
 
 | Opportunity | Details | Status |
 |---|---|---|
-| 🛠️ **Contract/Freelance** | Mobile (Flutter, React Native) & Web (Next.js) projects | ✅ Available |
-| 💼 **Full-Time Roles** | Senior Mobile Developer, Full-Stack, or Technical Lead positions | ✅ Open |
-| 🔓 **Open Source** | Contributing to impactful projects and building community tools | ✅ Actively Contributing |
-| 📚 **Knowledge Sharing** | Mentoring junior developers, technical articles, workshops | ✅ Available |
-| 🤖 **Collaborations** | Startup ideas, SaaS products, innovative solutions | ✅ Open to Discussions |
+|  **Contract/Freelance** | Mobile (Flutter, React Native) & Web (Next.js) projects |  Available |
+|  **Full-Time Roles** | Senior Mobile Developer, Full-Stack, or Technical Lead positions |  Open |
+|  **Open Source** | Contributing to impactful projects and building community tools |  Actively Contributing |
+|  **Knowledge Sharing** | Mentoring junior developers, technical articles, workshops |  Available |
+|  **Collaborations** | Startup ideas, SaaS products, innovative solutions |  Open to Discussions |
 
 </div>
 
-### 📫 Get in Touch
+###  Get in Touch
 
 <div align="center">
 
-**💼 Preferred Business Contact:**
+** Preferred Business Contact:**
 [![Outlook Email](https://img.shields.io/badge/Business%20Email-gabisworkspace@outlook.com-0078D4?style=for-the-badge&logo=outlook)](mailto:gabisworkspace@outlook.com)
 
 **Quick Links:**
@@ -361,12 +359,12 @@ I'm actively seeking opportunities in:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
-- 🌐 **[Personal Portfolio](https://gabis-workspace.vercel.app)** — Detailed project showcase & blog
-- 💻 **[GitHub Profile](https://github.com/GABIs-Hub)** — All my public projects
-- 📄 **Resume** — Available upon request
-- 🎮 **Fun fact:** When I'm not coding, I'm gaming or reading sci-fi novels!
+-  **[Personal Portfolio](https://gabis-workspace.vercel.app)** — Detailed project showcase & blog
+-  **[GitHub Profile](https://github.com/GABIs-Hub)** — All my public projects
+-  **Resume** — Available upon request
+-  **Fun fact:** When I'm not coding, I'm gaming or reading sci-fi novels!
 
 ---
 
